@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope&family=Poppins:wght@500;600&family=Work+Sans:wght@500&display=swap');
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+.ant-btnBg {
+    background-image: linear-gradient(to right, #FF8938 0%, #FF0000 100%);
+    font-weight: 500;
+    font-size: 20px;
+    border: none;
+    padding: 18px;
+}
+
+.b-title {
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.feature-products {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.card-bg {
+    background-image: linear-gradient(to bottom, #F4F4F4 0%, #F4F4F400 100%);
+    width: 267px;
+}
+
+.card-item {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.great-tea-grad-1 {}
+
+.tc-1 {
+    width: 238px;
+    height: 136px;
+    background-image: linear-gradient(to right, #FFE7E6 0%, #FFF3EB 100%);
+}
+
+.tc-2 {
+    background-color: #EEF1EB;
+}
+
+.tc-3 {
+    background: rgba(230, 166, 35, 0.1);
+}
+
+.tc-4 {
+    background-image: linear-gradient(to right, #D9D9D9 100%, #FFFFFF 0%);
+    width: 238px;
+    height: 136px;
+}
+
+.great-tea-title {
+    font-weight: bold;
+    font-size: 45px;
+    color: #1C1C1C;
+}
+
+.great-idea-middle {
+    font-weight: 800;
+    font-size: 20px;
+}
+.super-client-sections{
+    background-image: linear-gradient(to right,#FF8938 0%,#FF0000 100%);
+    padding : 80px;
+}
+.chathead{
+    margin-left: 150px;
+}
+.cinnet{
+    
+}
+
+.profile__pic{
+    top: -30px;
+    left: -25px;
+}
+
+@media only screen and (max-width: 770px) {
+    .media {
+        display: flex;
+        justify-content: center;
+    }
+}
